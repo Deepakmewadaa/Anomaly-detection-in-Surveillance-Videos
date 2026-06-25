@@ -1,3 +1,6 @@
 YOLO/PPE-detection/best.pt
 CNN/data/cifar-10-python.tar.gz
 YOLO/cars.mp4
+MOT17_Avenue_Results\training_runs\yolov5m_frozen_mot17\weights
+MOT17_Avenue_Results\training_runs\yolov5m_mot17\weights
+MOT17_Avenue_Results\training_runs\yolov5s_mot17\weights
