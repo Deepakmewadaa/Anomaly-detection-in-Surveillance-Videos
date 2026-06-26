@@ -1,0 +1,5 @@
+filterpy==1.4.5
+scikit-image>=0.21
+lap
+ultralytics
+cv2

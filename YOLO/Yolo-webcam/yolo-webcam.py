@@ -4,13 +4,13 @@ import math
 
 # For webcam
 
-# cap = cv2.VideoCapture(0)
-# cap.set(3, 1280)
-# cap.set(4, 720)
+cap = cv2.VideoCapture(0)
+cap.set(3, 1280)
+cap.set(4, 720)
 
 # For Video
 
-cap = cv2.VideoCapture("video-cars.mp4")
+# cap = cv2.VideoCapture("video-cars.mp4")
 
 model = YOLO('../Yolo-weights/yolov8n.pt')
 while True:
